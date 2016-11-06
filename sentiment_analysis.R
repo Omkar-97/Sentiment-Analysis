@@ -1,5 +1,3 @@
-setwd("D:/Source Code/R/rgv")
-
 library("tm")
 library("SnowballC")
 library("caTools")
